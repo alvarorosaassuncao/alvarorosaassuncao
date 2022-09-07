@@ -1,5 +1,12 @@
+Oi 👋, Eu sou Alvaro Assunção
+Apaixonado por ciência e análise de dados no mundo digital
+🔭 Atualmente estou trabalhando com automação na area de Petróleo e Gás.
 
-##Olá, eu sou o Alvaro!👋
+🌱 Atualmente estou aprendendo Python e Machine Learning
+
+💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e Python
+
+📫Você me acha através do e-mail asra.devops@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ##
