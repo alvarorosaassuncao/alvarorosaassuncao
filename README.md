@@ -1,4 +1,4 @@
-<h1 align= "center">Oi 👋, Eu sou Alvaro Assunção</h1>
+<h1 align= "center">Oi 👋, Eu sou o Alvaro Assunção</h1>
 
  <h3 aling= "center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 🔭 Atualmente estou trabalhando com automação na area de Petróleo e Gás.
