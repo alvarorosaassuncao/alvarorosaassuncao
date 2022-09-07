@@ -1,12 +1,21 @@
-Oi 👋, Eu sou Alvaro Assunção
-Apaixonado por ciência e análise de dados no mundo digital
+<h1 align= "center">Oi 👋, Eu sou Alvaro Assunção</h1>
+
+ <h3 aling= "center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 🔭 Atualmente estou trabalhando com automação na area de Petróleo e Gás.
 
-🌱 Atualmente estou aprendendo Python e Machine Learning
+🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e Python
+💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e **Python**
 
 📫Você me acha através do e-mail asra.devops@gmail.com
+
+##
+ <div> 
+  <a href="https://instagram.com/alvaroassuncione" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:asra.devops@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alvaroassuncao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ##
@@ -32,9 +41,5 @@ Apaixonado por ciência e análise de dados no mundo digital
   
 ##
 
-  <div> 
-  <a href="https://instagram.com/alvaroassuncione" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:asra.devops@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alvaroassuncao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+ 
 
