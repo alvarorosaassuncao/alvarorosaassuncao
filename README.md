@@ -1,10 +1,11 @@
 
 <h1 align= "center">Oi 👋, Eu sou o Alvaro Assunção</h1>
+<h2 align= "center"> Engenharia de Dados</h2>
 
  <h3 aling= "center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 🔭 Atualmente estou trabalhando com automação na area de Petróleo e Gás.
 
-🌱 Atualmente estou aprendendo **Python e Machine Learning**
+🌱 Atualmente uso **Python** e aprendendo **Machine Learning**
 
 💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e **Python**
 
