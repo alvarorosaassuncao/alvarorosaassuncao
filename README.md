@@ -7,7 +7,7 @@
 
 🌱 Atualmente uso **Python** e aprendendo **Machine Learning**
 
-💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e **Python**
+💬 Me pergunte sobre SQL, Power BI, RPA e **Python**
 
 📫Você me acha através do e-mail asra.devops@gmail.com
 
