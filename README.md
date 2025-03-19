@@ -1,5 +1,5 @@
 
-<h1 align= "center">Oi 👋, Eu sou o Alvaro Assunção</h1>
+<h1 align= "center">Oi, Eu sou o Alvaro Assunção</h1>
 <h2 align= "center"> Engenharia de Software</h2>
 
  <h3 aling= "center">Apaixonado por ciência e análise de dados no mundo digital</h3>
