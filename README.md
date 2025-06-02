@@ -1,15 +1,33 @@
 
 <h1 align= "center">Oi, Eu sou o Alvaro Assunção</h1>
-<h2 align= "center"> Engenharia de Software</h2>
 
- <h3 aling= "center">Apaixonado por ciência e análise de dados no mundo digital</h3>
-🔭 Atualmente estou trabalhando com automação na area de Petróleo e Gás.
 
-🌱 Atualmente uso **Python** e aprendendo **Machine Learning**
+<h3 align="center">🚀 Engenheiro de Software | Full Stack Developer | Especialista em IA & Dados 🚀</h3>
 
-💬 Me pergunte sobre SQL, Power BI, RPA e **Python**
+💡 **Transformo dados em decisões estratégicas e crio soluções web inteligentes, integrando IA e tecnologia de ponta.**  
 
-📫Você me acha através do e-mail asra.devops@gmail.com
+---
+
+### 🔭 **O que eu faço?**  
+Atualmente trabalho com **automação e análise de dados** na área de **Petróleo e Gás**, desenvolvendo soluções inovadoras com **Python**, **Machine Learning** e **Power BI**.  
+
+### 🛠 **Principais Tecnologias**  
+- **Linguagens & Frameworks:** Python (Django, Flask, Pandas, NumPy, Beautiful Soup, Selenium, Streamlit), JavaScript (ES6+), HTML5/CSS3  
+- **Desenvolvimento Web & IA:** Django, Flask, Streamlit, LangChain, OpenAI API, Claude API  
+- **Dados & Analytics:** Power BI, Pentaho, Looker Studio, ETL/ELT, Data Warehousing  
+- **Cloud & Infraestrutura:** SharePoint, Power Apps, Power Automate, Microsoft Power Platform  
+- **DevOps & Ferramentas:** Git/GitHub, ZABBIX, SAP PM, Docker  
+
+### 🌱 **Sempre Aprendendo!**  
+Atualmente aprimorando conhecimentos em **Machine Learning**, **Data Engineering**, e novas formas de integração de **LLMs** para otimizar análise de dados e automação de processos.  
+
+### 💬 **Vamos trocar ideias!**  
+Me pergunte sobre **SQL, Power BI, RPA, Python, IA aplicada e Desenvolvimento Full Stack**.  
+
+### 📫 **Contato**  
+📧 Email: asra.devops@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/)  
+💻 [GitHub](https://github.com/)  
 
 ##
  <div align= "center">
