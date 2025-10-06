@@ -2,7 +2,7 @@
 <h1 align= "center">Oi, Eu sou o Alvaro Assunção</h1>
 
 
-<h3 align="center">🚀 Engenheiro de Software | Full Stack Developer | Especialista em IA & Dados 🚀</h3>
+<h3 align="center">🚀 Engenheiro de Software | Full Stack Developer | Inteligência Artificial & Dados 🚀</h3>
 
 💡 **Transformo dados em decisões estratégicas e crio soluções web inteligentes, integrando IA e tecnologia de ponta.**  
 
